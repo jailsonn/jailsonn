@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨‍💻 Jailson Silva 
 
-<!--
-**jailsonn/jailsonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor front-end, migrando de carreira da área de analista de suporte técnico para dev web, comecei na área da informática no início dos anos 90. 
+graduado em Analise e desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+## ⚙️ Tecnologias
+* HTML 5
+* CSS 3
+* JavaScript
+* e outras frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Contatos
+Email: jailson.nogueira2@gmail.com
+
+Whatsapp: 15 98819-6147
+
+
+
