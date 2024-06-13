@@ -5,7 +5,9 @@ Desenvolvedor front-end, migrando de carreira da área de analista de suporte t�
 ## ⚙️ Tecnologias
 * HTML 5
 * CSS 3
-* JavaScript / React
+* JavaScript 
+* React e TypeScript FullStack
+* Styled Components
 * Java e Spring
 * Oracle PL/SQL
 * MongoDB
