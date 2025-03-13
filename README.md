@@ -4,14 +4,13 @@ Desenvolvedor front-end, migrando de carreira da área de analista de suporte t�
 
 ## ⚙️ Tecnologias
 * JavaScript
-* PHP 7, 8, PDO MVC
+* React
+* PHP 7
 * HTML 5
 * CSS 3
-* React
 * BootStrap
 * MySQL
-* Java e Spring
-* e outras frameworks
+
 
 ## 🔗 Contatos
 Email: jailson.nogueira2@gmail.com
